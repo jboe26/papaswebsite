@@ -1,0 +1,82 @@
+{
+	"1" : {
+		"title" : "New Level",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at, ducimus, officiis qui iste non?</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at, ducimus, officiis qui iste non?</p>",
+		"category" : "Development",
+		"client" : "New Level",
+		"url" : "",
+		"photos" : ["images/portfolio/01/01@2x.jpg","images/portfolio/01/02@2x.jpg","images/portfolio/01/03@2x.jpg","images/portfolio/01/04@2x.jpg","images/portfolio/01/05@2x.jpg"]
+	},
+	"2" : {
+		"title" : "Georg Shnider",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Branding",
+		"client" : "Georg Shnider",
+		"url" : "",
+		"photos" : ["images/portfolio/02/01@2x.jpg","images/portfolio/02/02@2x.jpg","images/portfolio/02/03@2x.jpg","images/portfolio/02/04@2x.jpg","images/portfolio/02/05@2x.jpg"]
+	},
+	"3" : {
+		"title" : "Stereos",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Photography",
+		"client" : "Stereos",
+		"url" : "",
+		"photos" : ["images/portfolio/03/01@2x.jpg","images/portfolio/03/02@2x.jpg","images/portfolio/03/03@2x.jpg","images/portfolio/03/04@2x.jpg","images/portfolio/03/05@2x.jpg"]
+	},
+	"4" : {
+		"title" : "Mock Cup",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Design",
+		"client" : "Mock Cup",
+		"url" : "",
+		"photos" : ["images/portfolio/04/01@2x.jpg","images/portfolio/04/02@2x.jpg","images/portfolio/04/03@2x.jpg","images/portfolio/04/04@2x.jpg","images/portfolio/04/05@2x.jpg"]
+	},
+	"5" : {
+		"title" : "Red Line",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Photography",
+		"client" : "Red Line",
+		"url" : "",
+		"photos" : ["images/portfolio/05/01@2x.jpg", "images/portfolio/05/02@2x.jpg", "images/portfolio/05/03@2x.jpg", "images/portfolio/05/04@2x.jpg", "images/portfolio/05/05@2x.jpg"]
+	},
+	"6" : {
+		"title" : "Erick Malvin",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Design",
+		"client" : "Erick Malvin",
+		"url" : "",
+		"photos" : ["images/portfolio/06/01@2x.jpg","images/portfolio/06/02@2x.jpg","images/portfolio/06/03@2x.jpg","images/portfolio/06/04@2x.jpg","images/portfolio/06/05@2x.jpg"]
+	},
+	"7" : {
+		"title" : "Mock-Up Book",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Branding",
+		"client" : "Mock-Up Book",
+		"url" : "",
+		"photos" : ["images/portfolio/07/01@2x.jpg","images/portfolio/07/02@2x.jpg","images/portfolio/07/03@2x.jpg","images/portfolio/07/04@2x.jpg","images/portfolio/07/05@2x.jpg"]
+	},
+	"8" : {
+		"title" : "Mock-Up",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Development",
+		"client" : "Mock-Up",
+		"url" : "awdawdawdaw", 
+		"photos" : ["images/portfolio/08/01@2x.jpg","images/portfolio/08/02@2x.jpg","images/portfolio/08/03@2x.jpg","images/portfolio/08/04@2x.jpg","images/portfolio/08/05@2x.jpg"]
+	},
+	"9" : {
+		"title" : "Cupboard",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Branding",
+		"client" : "Cupboard",
+		"url" : "",
+		"photos" : ["images/portfolio/09/01@2x.jpg","images/portfolio/09/02@2x.jpg", "images/portfolio/09/03@2x.jpg", "images/portfolio/09/04@2x.jpg", "images/portfolio/09/05@2x.jpg"]
+	},
+	"10" : {
+		"title" : "Magazine",
+		"description" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, necessitatibus?</p>",
+		"category" : "Design",
+		"client" : "Magazine",
+		"url" : "",
+		"photos" : ["images/portfolio/10/01@2x.jpg","images/portfolio/10/02@2x.jpg","images/portfolio/10/03@2x.jpg","images/portfolio/10/04@2x.jpg","images/portfolio/10/05@2x.jpg"]
+	}
+}
